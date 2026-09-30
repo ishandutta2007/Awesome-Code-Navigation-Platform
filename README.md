@@ -57,9 +57,9 @@ Whether you are managing large enterprise monorepos, indexing open-source softwa
 
 Explore production-ready open-source engines, AST parsers, and trigram search tools for self-hosting your own code search infrastructure.
 
-*(Sorted by GitHub Star Count descending)*
+*(Sorted by GitHub Stars_Count descending)*
 
-| Project 🌟 | GitHub Stars ⭐ | License 📜 | Description & Key Features 🔑 |
+| Project 🌟 | GitHub_Stars ⭐ | License 📜 | Description & Key Features 🔑 |
 | :--- | :---: | :---: | :--- |
 | **[Tree-Sitter](https://github.com/tree-sitter/tree-sitter)** | [![Tree-Sitter Stars](https://img.shields.io/github/stars/tree-sitter/tree-sitter?style=social&color=white)](https://github.com/tree-sitter/tree-sitter/stargazers) | MIT | **Parser generator tool & incremental parsing library.** Builds concrete syntax trees for source files to enable lightning-fast symbol navigation and syntax highlighting in IDEs and code search engines. |
 | **[CodeQL](https://github.com/github/codeql)** | [![CodeQL Stars](https://img.shields.io/github/stars/github/codeql?style=social&color=white)](https://github.com/github/codeql/stargazers) | MIT License / Terms | **Discover vulnerabilities across codebases.** GitHub's semantic code analysis engine that lets you query code as data for security analysis and deep data-flow navigation. |
